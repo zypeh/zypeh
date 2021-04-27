@@ -1,6 +1,6 @@
 ### Hi, I am Zheng Yan!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypeh&hide=javascript,html,css,vue,typescript,emacs%20lisp,go&layout=compact&langs_count=10" alt="Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypeh&hide=javascript,html,css,vue,typescript,emacs%20lisp,go,shell&layout=compact&langs_count=4%22%20alt=%22Github%20Stats%22" />
 
 A Software Engineer based in **Kuala Lumpur, Malaysia**.
 
